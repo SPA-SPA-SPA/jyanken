@@ -3,7 +3,9 @@
 规则：
 
 1. 胜利的手势&rarr;失败的手势，如图：
+
 ![](截图1.png)
+
 2. 胜负的判定
 
 |胜负|human|comp|human - comp|(human - comp + 3) % 3|
